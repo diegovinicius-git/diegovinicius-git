@@ -1,7 +1,11 @@
 ## Hi, I'm Diego Vinicius!
+
 🌱 I’m currently learning backend development, focusing on building APIs and scalable systems.
+
 ---
-## 🚀 Technologies I’m studying:
+
+### 🚀 Technologies I’m studying:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
