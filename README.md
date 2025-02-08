@@ -2,8 +2,6 @@
 
 🌱 I’m currently learning backend development, focusing on building APIs and scalable systems.
 
----
-
 ### 🚀 Technologies I’m studying:
 
 <p align="left">
