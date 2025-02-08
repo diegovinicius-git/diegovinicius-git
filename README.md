@@ -1,5 +1,7 @@
 ## Hi, I'm Diego Vinicius :D
+
 🌱 I’m currently learning: **{backend development}**, focusing on building APIs and scalable systems.
+
 ⚡ Fun fact: I was a **{university professor and researcher}** in the field of human movement sciences.
 
 ---
@@ -26,9 +28,9 @@
 #### 🔬 Scientific Research Tools:
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Jamovi_logo.png" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/SPSS_logo.svg" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/JASP_logo.png" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jamovi_logo.svg/512px-Jamovi_logo.svg.png" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SPSS_logo.svg/512px-SPSS_logo.svg.png" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/JASP_logo.svg/512px-JASP_logo.svg.png" width="35" height="35"/>
 </p>
 
 ---
