@@ -11,8 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
 
----
-
 #### 📚 Currently Studying:
 
 <p align="left">
