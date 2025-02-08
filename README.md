@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" height="35"/>
 </p>
 
----
 
 #### 🔬 Scientific Research Tools:
 
