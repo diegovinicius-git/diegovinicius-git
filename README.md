@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Diego Vinicius!
+🌱 I’m currently learning {backend development}, focusing on building APIs and scalable systems.
+
+### Tecnologies
+________________________________________
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 
 <!--
 **diegovinicius-git/diegovinicius-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
