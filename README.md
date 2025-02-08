@@ -17,22 +17,15 @@
 #### 📚 Currently Studying:
 
 <p align="left">
-  <img src="https://jamovi.org/images/jamovi-logo.png" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/SPSS_logo.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/JASP_logo.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" height="35"/>
 </p>
 
 ---
 
-#### 🔬 Scientific Research Tools:
-
-<p align="left">
-  <img src="https://jamovi.org/images/jamovi-logo.png" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/SPSS_logo.svg" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/JASP_logo.png" width="35" height="35"/>
-</p>
-
----
 <!--
 **diegovinicius-git/diegovinicius-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
