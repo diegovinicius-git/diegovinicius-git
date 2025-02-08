@@ -1,5 +1,6 @@
 ## Hi, I'm Diego Vinicius :D
-🌱 I’m currently learning **{backend development}**, focusing on building APIs and scalable systems.
+🌱 I’m currently learning: **{backend development}**, focusing on building APIs and scalable systems.
+⚡ Fun fact: I was a **{university professor and researcher}** in the field of human movement sciences.
 
 ---
 
@@ -22,6 +23,15 @@
 
 ---
 
+#### 🔬 Scientific Research Tools:
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Jamovi_logo.png" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/SPSS_logo.svg" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/JASP_logo.png" width="35" height="35"/>
+</p>
+
+---
 <!--
 **diegovinicius-git/diegovinicius-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
