@@ -1,5 +1,5 @@
 ## Hi, I'm Diego Vinicius :D
-🌱 I’m currently learning backend development, focusing on building APIs and scalable systems.
+🌱 I’m currently learning **{backend development}**, focusing on building APIs and scalable systems.
 
 ---
 
