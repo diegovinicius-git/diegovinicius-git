@@ -17,10 +17,9 @@
 #### 📚 Currently Studying:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" height="35"/>
+  <img src="https://jamovi.org/images/jamovi-logo.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/SPSS_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/JASP_logo.png" width="40" height="40"/>
 </p>
 
 ---
@@ -28,9 +27,9 @@
 #### 🔬 Scientific Research Tools:
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jamovi_logo.svg/512px-Jamovi_logo.svg.png" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SPSS_logo.svg/512px-SPSS_logo.svg.png" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/JASP_logo.svg/512px-JASP_logo.svg.png" width="35" height="35"/>
+  <img src="https://jamovi.org/images/jamovi-logo.png" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/SPSS_logo.svg" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/JASP_logo.png" width="35" height="35"/>
 </p>
 
 ---
