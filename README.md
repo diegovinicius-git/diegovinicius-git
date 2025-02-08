@@ -30,7 +30,7 @@
 
 <p align="left">
   <img src="https://logodix.com/logo/1598586.png" width="35" height="35"/>
-  <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/jamovi.png?itok=W5hD9LOY" width="35" height="35"/>
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/jamovi-icon.png" width="35" height="35"/>
 </p>
 
 <!--
